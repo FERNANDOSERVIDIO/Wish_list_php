@@ -112,3 +112,17 @@ nav {
     padding-right: 10px;
     padding-top: 8px;
     margin: auto 10px; } }
+
+@media (max-width: 350px) {
+  .lista-item div h4 {
+    margin: auto 5px;
+    font-size: 20px;
+    color: green; }
+  .lista-item div p {
+    margin: auto 5px;
+    font-size: 15px; }
+  .lista-item a {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    margin: auto 10px; } }
