@@ -7,7 +7,7 @@ const cosas = [
     {id: 6, nombre: 'Hub USB', aclaracion:'(es esto ->)', enlace:'https://www.google.com/search?q=hub+usb&client=opera&hs=VXN&sxsrf=ALeKk00XGVDbt63mL3jJH_K4hLD8m3pp9A:1607917018653&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7iODVxcztAhX5KLkGHZlfBgEQ_AUoAXoECBcQAw&biw=1560&bih=790'},
     {id: 7, nombre: 'Lamina del Subte', aclaracion:'(como la del enlace)', enlace:'https://articulo.mercadolibre.com.ar/MLA-833114582-lamina-mapa-metro-buenos-aires-imprimible-_JM#position=3&type=item&tracking_id=39657ed0-735a-477e-bd37-ae39ef1cad72'},
     {id: 8, nombre: 'La Marca de Atenea', aclaracion:'(Rick Riordan)', enlace:''},
-    {id: 9, nombre: 'El Silmarillion', aclaracion:'(j.R.R. Tolkien)', enlace:''},
+    {id: 9, nombre: 'El Silmarillion', aclaracion:'(J.R.R. Tolkien)', enlace:''},
     {id: 10, nombre: 'Uno Flip', aclaracion:'', enlace:''},
     {id: 11, nombre: 'Marco de Estilo Antiguo', aclaracion:'', enlace:''},
     {id: 12, nombre: 'Rompecabezas', aclaracion:'(No mucho paisaje porque soy malisimo)', enlace:''},
