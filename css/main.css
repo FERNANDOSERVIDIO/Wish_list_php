@@ -100,13 +100,15 @@ nav {
 
 @media (max-width: 400px) {
   #main {
-    margin: 20px 80px; }
+    margin: 20px 5px; }
   .lista-item div h4 {
-    margin: auto 5px; }
+    margin: auto 5px;
+    font-size: 20px; }
   .lista-item div p {
-    margin: auto 5px; }
+    margin: auto 5px;
+    font-size: 15px; }
   .lista-item a {
     padding-left: 10px;
     padding-right: 10px;
-    padding-top: 50px;
+    padding-top: 8px;
     margin: auto 10px; } }
