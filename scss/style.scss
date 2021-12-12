@@ -128,3 +128,25 @@ nav{
         }
     }
 }
+
+@media (max-width: 400px){
+    #main{
+        margin: 20px 80px;
+    }
+    .lista-item{
+        div{
+            h4{
+                margin: auto 5px;
+            }
+            p{
+                margin: auto 5px;
+            }
+        }
+        a{
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 50px;
+            margin: auto 10px;  
+        }
+    }
+}
