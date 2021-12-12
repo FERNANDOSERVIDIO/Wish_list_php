@@ -14,7 +14,7 @@ const cosas = [
     {id: 13, nombre: 'Juego de Ingenio', aclaracion:'Ese esta copado ->', enlace:'https://articulo.mercadolibre.com.ar/MLA-829291593-juego-de-encastre-madera-cube-puzzle-ar1-787-02a-ellobo-_JM#reco_item_pos=2&reco_backend=machinalis-seller-items-pdp&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=696dfe97-f4a8-41b2-b51e-b8f1a3c5ebe8'},
     {id: 14, nombre: 'Arena Kinética', aclaracion:'Por que?...porque no?', enlace:''},
     {id: 15, nombre: 'Cualquier Juego de Mesa', aclaracion:'', enlace:''},
-    {id: 16, nombre: '', aclaracion:'', enlace:''},
+    {id: 16, nombre: 'Etiquetas NFC', aclaracion:'Super utiles', enlace:'https://listado.mercadolibre.com.ar/etiquetas-nfc#D[A:etiquetas%20nfc]'},
     {id: 17, nombre: '', aclaracion:'', enlace:''},
     {id: 18, nombre: '', aclaracion:'', enlace:''},
     {id: 19, nombre: '', aclaracion:'', enlace:''},
